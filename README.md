@@ -11,14 +11,6 @@
  <br><br>
  
 ### 질문하기
-<<<<<<< HEAD
-
- - [질문하기](https://github.com/ya-chae/H160/issues/new)
- > Note : 질문하기는 Github 계정이 필요합니다.
-=======
 ---
  - [질문하기](https://github.com/ya-chae/H160/issues/new)
  > Note : 질문하기는 Github 계정이 필요합니다.
- 
- 
->>>>>>> 560ccf3ae2af876db771050f0e538360d799725c
